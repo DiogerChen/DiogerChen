@@ -2,15 +2,16 @@
 
 * UG student in SUSTech (2016-2021)
   * CSE@SUSTech (2018-2021)
+  
+* Game Developer Intern in NetEase (Jun.2020 - Aug.2020)
 
 * Want to be a **Technical Art**
   * Strugling in Computer Graphic
   * Learning Unity Shader
 
-* Game Developer Intern in NetEase (Jul.2020 - Aug.2020)
+* **Katou Megumi** is my waifu
+* Still single but crushing on a wonderful girl
 
-* **Katou Megumi** is my Waifu
-* **STILL SINGLE**
 
 
 <!--
