@@ -6,7 +6,7 @@
 * Game Developer Intern in NetEase (Jun.2020 - Aug.2020)
 
 * Want to be a **Technical Art**
-  * Strugling in Computer Graphic
+  * Strugling in Computer Graphics
   * Learning Unity Shader
 
 * **Katou Megumi** is my waifu
