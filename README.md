@@ -4,7 +4,7 @@
   * CSE@SUSTech (2018-2021)
   
 * Game Developer in NetEase (Jun.2021 - ???)
-* Game Developer Intern in NetEase (Jun.2020 - Aug.2020)
+  * Game Developer Intern in NetEase (Jun.2020 - Aug.2020)
 
 * Want to be a **Tech Art**
   * Strugling in Computer Graphics
