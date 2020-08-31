@@ -3,9 +3,10 @@
 * UG student in SUSTech (2016-2021)
   * CSE@SUSTech (2018-2021)
   
+* Game Developer in NetEase (Jun.2021 - ???)
 * Game Developer Intern in NetEase (Jun.2020 - Aug.2020)
 
-* Want to be a **Technical Art**
+* Want to be a **Tech Art**
   * Strugling in Computer Graphics
   * Learning Unity Shader
 
