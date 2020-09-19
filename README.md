@@ -13,7 +13,11 @@
 * **Katou Megumi** is my waifu
 * Still single but crushing on a wonderful girl
 
-
+* Reasons for **John** as my English name
+  * John is similar to the pronunciation of the second character in my name
+  * I really love **Keanu Reeves**! He played **John Wick** in *John Wick*, and **Johnny Silverhand** in *Cyberpunk 2077*
+  * I really love **Arthur Morgan** in *Red Dead Redemption II*, **John Marston** got Arthur's hat, and Arthur's will that leaving away from the life in blood
+  
 
 <!--
 **DiogerChen/DiogerChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
