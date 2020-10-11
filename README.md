@@ -6,12 +6,12 @@
 * Game Developer in NetEase (Jun.2021 - ???)
   * Game Developer Intern in NetEase (Jun.2020 - Aug.2020)
 
-* Want to be a **Tech Art**
+* Want to be a **Technical Artist**
   * Strugling in Computer Graphics
   * Learning Unity Shader
 
 * **Katou Megumi** is my waifu
-* Still single
+* Still single but loving a wonderful girl
 
 * Reasons for **John** as my English name
   * John is similar to the pronunciation of the second character in my name
