@@ -1,7 +1,7 @@
 ## a Gamer.
 
-* UG student in [SUSTech](https://www.sustech.edu.cn/) (2016-2021)
-  * [CSE@SUSTech](http://cse.sustech.edu.cn/) (2018-2021)
+* UG student in [SUSTech](https://www.sustech.edu.cn/) (2016.09-2021.06)
+  * [CSE@SUSTech](http://cse.sustech.edu.cn/) (2018.02-2021.06)
   
 * Game Dev in [NetEase](http://game.163.com/) (2021.07 - Now)
   * Game Dev Intern in NetEase (2020.06 - 2020.07)
