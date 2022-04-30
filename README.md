@@ -1,26 +1,11 @@
 ## a Gamer.
 
-* UG student in [SUSTech](https://www.sustech.edu.cn/) (2016.09-2021.06)
-  * [CSE@SUSTech](http://cse.sustech.edu.cn/) (2018.02-2021.06)
+* UG student in [SUSTech](https://www.sustech.edu.cn/en/) (2016.09-2021.06)
+  * [CSE@SUSTech](http://cse.sustech.edu.cn/en/) (2018.02-2021.06)
   
-* Game Dev in [NetEase](http://game.163.com/) (2021.07 - Now)
-  * Game Dev Intern in NetEase (2020.06 - 2020.07)
+* Game Dev in [NetEase Games](https://www.neteasegames.com/) (2021.07 - Now)
+  * Game Dev Intern in NetEase Games (2020.06 - 2020.08)
 
 * Want to be a **Technical Artist**
   * Strugling in Computer Graphics
   * Learning Unity Shader
-
-<!--
-**DiogerChen/DiogerChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
