@@ -6,3 +6,5 @@
 * Strugling in Computer Graphics
 
 * Learning Unity Shader
+
+* `INFP-T` + `INTP-T`
